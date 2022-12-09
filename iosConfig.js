@@ -1,4 +1,3 @@
-// iOS
 import AppleHealthKit from 'react-native-health';
 
 const permissions = {
